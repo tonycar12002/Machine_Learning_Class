@@ -28,3 +28,12 @@ reference: https://medium.com/@ken90242/machine-learning%E5%AD%B8%E7%BF%92%E6%97
 	* Building a Spam Classifier
 	* Handling Skewed Data
 	* Using Large Data Sets
+* Week 07 - Support Vector Machines
+	* Large Margin Classification
+	* Kernels
+	* SVMs in Practice
+* Week 08 - Unsupervised Learning and Dimensionality Reduction
+	* Clustering
+	* Motivation
+	* Principal Component Analysis
+	* Applying PCA
