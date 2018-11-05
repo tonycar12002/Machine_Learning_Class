@@ -1,0 +1,9 @@
+*.exe
+*.vscode
+*.out
+test
+.ipynb_checkpoints
+*.vs
+*.zip
+*.rar
+
