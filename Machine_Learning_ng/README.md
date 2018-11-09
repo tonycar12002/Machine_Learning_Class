@@ -37,3 +37,11 @@ reference: https://medium.com/@ken90242/machine-learning%E5%AD%B8%E7%BF%92%E6%97
 	* Motivation
 	* Principal Component Analysis
 	* Applying PCA
+	* [reference](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8-%E7%B5%B1%E8%A8%88%E5%AD%B8%E7%BF%92-%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90-principle-component-analysis-pca-58229cd26e71)
+* Week 09 - Anomaly Detection
+	* Density Estimation
+	* Building an Anomaly Detection System
+	* Multivariate Gaussian Distribution (Optional)
+	* Recommender Systems
+	* Collaborative Filtering
+	* Low Rank Matrix Factorization
