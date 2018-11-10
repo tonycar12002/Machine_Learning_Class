@@ -45,3 +45,8 @@ reference: https://medium.com/@ken90242/machine-learning%E5%AD%B8%E7%BF%92%E6%97
 	* Recommender Systems
 	* Collaborative Filtering
 	* Low Rank Matrix Factorization
+* Week 10 - Large Scale Machine Learning
+	* Gradient Descent with Large Datasets
+	* Advanced Topics
+* Week 11 - Application Example: Photo OCR
+	* Photo OCR
