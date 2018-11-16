@@ -1,4 +1,3 @@
-Age,Workclass,fnlwgt,Education,Education-num,Marital-status,Occupation,Relationship,Race,Sex,Capital-gain,Capital-loss,Hours-per-week,Native-country,Income
 37, Private,272950, HS-grad,9, Married-civ-spouse, Exec-managerial, Husband, White, Male,0,0,40, United-States,0
 31, Private,261943, Some-college,10, Married-civ-spouse, Exec-managerial, Husband, White, Male,0,0,40, United-States,0
 29, Private,285419, 12th,8, Never-married, Tech-support, Not-in-family, White, Male,0,0,40, United-States,0
