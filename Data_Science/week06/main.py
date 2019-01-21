@@ -5,8 +5,9 @@ import numpy as np
 import os
 import collections
 import time
+import sys
 
-#%% 
+#%% Main 
 class Graph:
     def __init__(self, file_input, file_output):
         
@@ -67,6 +68,9 @@ class Graph:
         self.graph[node2].append(node1)
 
 if __name__ == '__main__':
-    graph = Graph("hw6_dataset.txt", "ans.txt")
+    #print(len(sys.argv))
+    input_file = sys.argv[1]
+    output_file = sys.argv[2]
+    graph = Graph(input_file, output_file)
     
             
