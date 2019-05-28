@@ -1,5 +1,0 @@
-*.txt
-*.in
-.~lock.test.csv#
-.~lock.train.csv#
-.~lock.sub.csv#
