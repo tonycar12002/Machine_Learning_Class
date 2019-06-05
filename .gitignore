@@ -7,3 +7,5 @@ test
 *.zip
 *.rar
 *.txt
+*.gz
+*.tar.gz
